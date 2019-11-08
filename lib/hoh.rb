@@ -51,7 +51,7 @@ name_system = {
        		label: "Order",
        		sub_category: {
        			sub_category: {
-       				label: "Order",
+       				label: "Genus",
        				sub_category: {
        					sub_category: {
        						label: "Species"
